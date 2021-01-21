@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Enter server directory
-cd papermc
+cd /minecraft
 
 # Perform initial setup
 urlPrefix=https://papermc.io/api/v2/projects/paper
